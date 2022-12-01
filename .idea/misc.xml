@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/WorkPlace/jiren/app/src/main/res/layout/activity_main.xml" value="0.36633663366336633" />
+        <entry key="..\:/WorkPlace/jiren/app/src/main/res/layout/main_content.xml" value="0.358695652173913" />
         <entry key="..\:/newplace/jiren/app/src/main/res/drawable/side_nav_bar.xml" value="0.3764102564102564" />
         <entry key="..\:/newplace/jiren/app/src/main/res/layout/activity_main.xml" value="0.17806484295845998" />
         <entry key="..\:/newplace/jiren/app/src/main/res/layout/activity_second.xml" value="0.17806484295845998" />
@@ -17,7 +19,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
